@@ -1,5 +1,4 @@
 import ast
-from collections import namedtuple
 
 from py2diagrams.parsers.base import BaseAnalyzer
 
