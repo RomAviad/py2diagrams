@@ -1,2 +1,2 @@
-# py2diagrams
+# Py2Diagrams
 Generate PlantUML Diagrams from Python code
